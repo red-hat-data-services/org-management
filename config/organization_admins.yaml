@@ -1,0 +1,17 @@
+---
+orgs:
+  red-hat-data-services:
+    admins:
+      - accorvin
+      - anishasthana
+      - catrobson
+      - dchourasia
+      - etirelli
+      - jkoehler-redhat
+      - ldimaggi
+      - openshift-ci-robot
+      - openshift-merge-robot
+      - rareddy
+      - riprasad
+      - shgriffi
+      - taneem-ibrahim
