@@ -119,6 +119,8 @@ orgs:
       - NickLucche
       - nixpanic
       - oksanabaza
+      - openshift-ci-robot
+      - openshift-merge-robot
       - pablofelix
       - panbalag
       - paulovmr
