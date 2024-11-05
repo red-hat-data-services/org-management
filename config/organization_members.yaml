@@ -125,6 +125,7 @@ orgs:
       - NickLucche
       - nixpanic
       - oksanabaza
+      - omrirh
       - openshift-ci-robot
       - openshift-merge-robot
       - pablofelix
@@ -173,4 +174,3 @@ orgs:
       - ykaliuta
       - YuliaKrimerman
       - zdtsw
-      - omrirh
