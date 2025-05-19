@@ -1,4 +1,3 @@
----
 orgs:
   red-hat-data-services:
     members:
@@ -30,6 +29,7 @@ orgs:
       - asmigala
       - astefanutti
       - atheo89
+      - AviranBadli
       - aviavissar
       - avinashsingh77
       - bartoszmajsak
@@ -222,6 +222,7 @@ orgs:
       - thom-at-redhat
       - tmihalac
       - tobiastal
+      - TomerG711
       - tonyxrmdavidson
       - uboppana
       - ugiordan
@@ -241,5 +242,3 @@ orgs:
       - YosiElias
       - YuliaKrimerman
       - zdtsw
-      - TomerG711
-      - AviranBadli
