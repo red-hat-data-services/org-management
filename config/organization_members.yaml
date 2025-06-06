@@ -2,7 +2,6 @@
 orgs:
   red-hat-data-services:
     members:
-      - r3v5
       - 2000krysztof
       - abhijeet-dhumal
       - abiazett
@@ -184,6 +183,7 @@ orgs:
       - pmccarthy
       - ppadti
       - r2munz
+      - r3v5
       - Raghul-M
       - rareddy
       - rbo
