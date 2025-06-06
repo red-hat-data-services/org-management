@@ -2,6 +2,7 @@
 orgs:
   red-hat-data-services:
     members:
+      - r3v5
       - 2000krysztof
       - abhijeet-dhumal
       - abiazett
